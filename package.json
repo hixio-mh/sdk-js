@@ -51,7 +51,7 @@
     "release": "npm version -m \":rocket: Release %s\""
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.3",
     "base-64": "^0.1.0"
   },
   "devDependencies": {
